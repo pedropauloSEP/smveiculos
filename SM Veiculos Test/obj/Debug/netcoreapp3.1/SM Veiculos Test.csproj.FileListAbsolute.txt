@@ -1,0 +1,4 @@
+C:\Users\C261576\OneDrive - Thomson Reuters Incorporated\Desktop\Testes\SM Veiculos Test\SM Veiculos Test\obj\Debug\netcoreapp3.1\SM Veiculos Test.csprojAssemblyReference.cache
+C:\Users\C261576\OneDrive - Thomson Reuters Incorporated\Desktop\Testes\SM Veiculos Test\SM Veiculos Test\obj\Debug\netcoreapp3.1\SM Veiculos Test.AssemblyInfoInputs.cache
+C:\Users\C261576\OneDrive - Thomson Reuters Incorporated\Desktop\Testes\SM Veiculos Test\SM Veiculos Test\obj\Debug\netcoreapp3.1\SM Veiculos Test.AssemblyInfo.cs
+C:\Users\C261576\OneDrive - Thomson Reuters Incorporated\Desktop\Testes\SM Veiculos Test\SM Veiculos Test\obj\Debug\netcoreapp3.1\SM Veiculos Test.csproj.CoreCompileInputs.cache
